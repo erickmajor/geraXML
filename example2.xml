@@ -1,0 +1,23 @@
+<conference_paper>
+  <contributors>      <organization sequence='first' contributor_role='author'>Universidade Estadual do Sudoeste da Bahia - UESB</organization>    <person_name sequence='first' contributor_role='author'>      <given_name>Tatiana</given_name>      <surname>Silva Santos Soares</surname>    </person_name>    <person_name sequence='additional' contributor_role='author'>
+      <given_name>Irani</given_name>
+      <surname>Parolin Santana</surname>
+    </person_name>
+    <person_name sequence='additional' contributor_role='author'>
+      <given_name>Claudinei</given_name>
+      <surname>de Carmargo Sant'Ana</surname>
+    </person_name>
+  </contributors>
+  <titles>
+    <title>A MATEMÁTICA ESCOLAR NO CURSO COLEGIAL NA REGIÃO DE VITÓRIA DA CONQUISTA-BAHIA (1970-1990): interpretações baseadas nas análises de documentos e depoimento de professores</title>
+  </titles>
+<publication_date media_type='print'>     <month>01</month>     <day>01</day>     <year>2000</year>   </publication_date> <publication_date media_type='online'>
+    <month>01</month>
+    <day>01</day>
+    <year>2015</year>
+  </publication_date>
+  <doi_data>
+    <doi>10.1555/aaaa_a_a</doi>
+    <resource>http://proceedings.galoa.com.br/geem/trabalhos/a_matematica_escolar_no_c...
+  </doi_data>
+</conference_paper>

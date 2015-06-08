@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.5" xmlns="http://www.crossref.org/schema/4.3.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.5 http://www.crossref.org/schemas/crossref4.3.5.xsd">
+  <head>
+    <doi_batch_id>cbee-2</doi_batch_id>
+        <timestamp>20150521010315</timestamp>
+    <depositor>
+      <depositor_name>Galoa</depositor_name>
+      <email_address>fabiano@galoa.com.br</email_address>
+    </depositor>
+    <registrant>Galoá { Software para Ciência</registrant>
+  </head>
+  <body>
+    <conference>
+      <event_metadata>
+        <conference_name>Congresso Brasileiro de Educação Especial</conference_name>
+        <conference_acronym>CBEE 6</conference_acronym>
+        <conference_number>VI</conference_number>
+        <conference_date start_day="01" start_month="11" start_year="2014" end_day="04" end_month="11" end_year="2014">
+          November 1-4, 2014
+        </conference_date>
+      </event_metadata>
+      <proceedings_series_metadata>
+        <series_metadata>
+          <titles>
+            <title>Anais do Congresso Brasileiro de Educação Especial</title>
+          </titles>
+          <issn>23592109</issn>
+        </series_metadata>
+        <proceedings_title>Congresso Brasileiro de Educação Especial Proceeding Series</proceedings_title>
+        <volume>VI</volume>
+        <publisher>
+          <publisher_name>Galoá</publisher_name>
+          <publisher_place>Campinas - SP, Brazil</publisher_place>
+        </publisher>
+        <publication_date media_type='online'>
+          <month>11</month>
+          <day>05</day>
+          <year>2014</year>
+        </publication_date>
+        <noisbn reason='archive_volume' />
+        <doi_data>
+          <doi>10.17648/galoa-cbee-6</doi>
+          <resource>http://proceedings.galoa.com.br/cbee/6</resource>
+        </doi_data>
+      </proceedings_series_metadata>
+    </conference>
+  </body>
+</doi_batch>
